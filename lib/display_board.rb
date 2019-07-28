@@ -5,7 +5,8 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 def display_board
   puts "#{board[0]}"
-
+  puts 
+end
 
 # board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
 
